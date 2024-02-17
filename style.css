@@ -1,0 +1,26 @@
+
+h1{
+  background-color: rgb(24, 143, 24);
+   color: white;
+    border: 6px solid rgb(17, 85, 17);
+    border-radius: 10px;
+    
+}
+
+h2{
+    background-color: orange; 
+    color: black;
+    border: solid 5px rgb(151, 85, 4);
+    border-radius: 10px;
+    }
+img{
+    border: 5px solid;
+    border-style: double;
+    border-radius: 20px;
+}
+a{
+   font-size: 50px; color: blue; 
+}
+p{
+  font-size: 20px;
+}
